@@ -1,0 +1,16 @@
+.navbar{
+    $justify-content: space-between;
+}
+span{
+    $padding-right: 1rem;
+}
+.lable{
+    $text-transform:capitalize;
+    $text-align: justify;
+}
+a{
+     color: white;
+}
+a:hover{
+    text-decoration:none;
+}

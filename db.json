@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "first_name": "komal",
+      "last_name": "dange",
+      "email": "komal@gmail.com",
+      "id": 8
+    },
+    {
+      "first_name": "puja",
+      "last_name": "patil",
+      "email": "puja@gmail.com",
+      "id": 9
+    }
+  ]
+}
